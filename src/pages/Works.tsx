@@ -10,15 +10,15 @@ import UiUxIcon from '../icons/svg/ui.png';
 import AbstractIcon from '../icons/svg/abstract.png';
 
 // === Project Images ===
-import work1 from '../images/works/Project1.png';
-import work2 from '../images/works/Project2.png';
-import work3 from '../images/works/Project3.png';
-import work4 from '../images/works/Project4.png';
-import work5 from '../images/works/Project5.png';
-import work6 from '../images/works/Project6.png';
-import work7 from '../images/works/Project7.png';
-import work8 from '../images/works/Project8.png';
-import work9 from '../images/works/Project9.png';
+import work1 from '../images/Works/Project1.png';
+import work2 from '../images/Works/Project2.png';
+import work3 from '../images/Works/Project3.png';
+import work4 from '../images/Works/Project4.png';
+import work5 from '../images/Works/Project5.png';
+import work6 from '../images/Works/Project6.png';
+import work7 from '../images/Works/Project7.png';
+import work8 from '../images/Works/Project8.png';
+import work9 from '../images/Works/Project9.png';
 
 const Works = () => {
   const [activeFilter, setActiveFilter] = useState('all');
